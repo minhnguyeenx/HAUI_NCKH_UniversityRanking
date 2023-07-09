@@ -1,6 +1,4 @@
-# Project Title
-
-University Ranking Software based on Webometrics Criteria
+#University Ranking Software based on Webometrics Criteria
 
 ## Introduction
 
